@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jefferson Torres</h1>
-<h3 align="center">Full Stack Developer | Java, Python, React | Cloud & Automation 🚀</h3>
+<h3 align="center">Full Stack Developer | Java, Python, React | Cloud & Automation </h3>
 
 ---
 
