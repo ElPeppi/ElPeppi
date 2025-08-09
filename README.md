@@ -38,10 +38,10 @@
 
 ## Contacto
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/jefferson-torres-4a778b245/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:tuemail@gmail.com">
+  <a href="mailto:jeffry0414@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
